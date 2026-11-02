@@ -1,0 +1,8 @@
+-qiC2%Ps2u1%s%uN0%I0p3DaK0c1H0%kf2%f#f -F "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" -%G 2:8 https://designwithgayatri.webflow.io/ https://designwithgayatri.webflow.io/visuals https://designwithgayatri.webflow.io/aboutme https://designwithgayatri.webflow.io/cyodhacasestudy https://designwithgayatri.webflow.io/dolly-vui https://designwithgayatri.webflow.io/ipadkids -O1 "C:\\Users\\ADITYA KUMAR\\Downloads\\Gayatri's Portfolio" +*.webp +*.avif +*.svg +*.css +*.js +*.woff2 +*.woff +*.ttf +*.otf +*.mp4 +*.webm -ad.doubleclick.net/* -mime:application/foobar +https://designwithgayatri.webflow.io/* +cdn.prod.website-files.com/66d19c14f3e440d19c8d3ed3/* +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp
+File generated automatically on Mon, 02 Nov 2026 04:53:02, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
